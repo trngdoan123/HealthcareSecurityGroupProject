@@ -1,0 +1,14 @@
+Time: 2024-11-10 17:31:42, CPU Usage: 5.1%, Memory Usage: 56.5%, Disk Usage: 23.1%
+Time: 2024-11-10 17:31:53, CPU Usage: 5.6%, Memory Usage: 56.8%, Disk Usage: 23.1%
+Time: 2024-11-10 17:32:04, CPU Usage: 3.1%, Memory Usage: 57.1%, Disk Usage: 23.1%
+Time: 2024-11-10 17:32:15, CPU Usage: 1.4%, Memory Usage: 56.2%, Disk Usage: 23.1%
+Time: 2024-11-10 17:32:26, CPU Usage: 3.4%, Memory Usage: 55.5%, Disk Usage: 23.1%
+Time: 2024-11-10 17:32:37, CPU Usage: 3.7%, Memory Usage: 55.5%, Disk Usage: 23.1%
+Time: 2024-11-10 17:32:48, CPU Usage: 5.7%, Memory Usage: 55.3%, Disk Usage: 23.1%
+Time: 2024-11-10 17:32:59, CPU Usage: 1.0%, Memory Usage: 55.9%, Disk Usage: 23.1%
+Time: 2024-11-10 17:33:10, CPU Usage: 4.9%, Memory Usage: 54.4%, Disk Usage: 23.1%
+Time: 2024-11-10 17:33:21, CPU Usage: 3.2%, Memory Usage: 57.1%, Disk Usage: 23.1%
+Time: 2024-11-10 17:33:32, CPU Usage: 5.5%, Memory Usage: 56.7%, Disk Usage: 23.1%
+Time: 2024-11-10 17:33:43, CPU Usage: 3.9%, Memory Usage: 55.8%, Disk Usage: 23.1%
+Time: 2024-11-10 17:33:54, CPU Usage: 5.6%, Memory Usage: 55.5%, Disk Usage: 23.1%
+Time: 2024-11-10 17:34:05, CPU Usage: 3.1%, Memory Usage: 56.9%, Disk Usage: 23.1%
